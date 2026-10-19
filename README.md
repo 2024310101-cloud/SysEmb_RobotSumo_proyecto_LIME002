@@ -7,5 +7,5 @@ El sistema procesa información en tiempo real procedente de sensores de proximi
 
 ## Integrantes del Equipo
 * Daniela Isabel Isassi Perez - 2024310322@uteq.edu.mx
-* Ana Laura Jaime Gallegos- Ana Laura Jaime Gallegos
+* Ana Laura Jaime Gallegos- 2024310101@uteq.edu.mx
 * Joana Resendiz Mayorga - 2024310220@uteq.edu.mx
